@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "exports": {
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.1",
+      "compile": {
+        "bin/Debug/ClassLibrary.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/ClassLibrary.dll": {}
+      }
+    }
+  }
+}
