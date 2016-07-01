@@ -1,3 +1,4 @@
-﻿@{
-    Html.RenderPartial("_StronglyTypedPartial");
+﻿@using rc2test
+@{
+    Html.RenderPartial("_StronglyTypedPartial", new TestModel());
 }
